@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="Carousel"
+>
+  <h1>
+    Test Title
+  </h1>
+  <div
+    className="Carousel-main"
+  >
+    <div
+      className="Card"
+    >
+      <h4
+        className="Card-title"
+      >
+        testing image 1
+      </h4>
+      <img
+        alt="testing image 1"
+        className="Card-image"
+        src="test1.com"
+      />
+      <small
+        className="Card-small"
+      >
+        Image 
+        1
+         of 
+        3
+        .
+      </small>
+    </div>
+    <i
+      className="bi bi-arrow-right-circle"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;
